@@ -1,0 +1,19 @@
+" Press ? for help
+
+.. (up a dir)
+</htdocs/eas/vue-telescopes/
+â–¸  data/
+â–¸  dist/
+â–¸  node_modules/
+â–¸  public/
+â–¸  src/
+   404.html
+   _redirects
+   firebase.json
+   index.html
+   NERD_tree_1  [RO]
+   package.json
+   server.js
+   vue.config.js
+   webpack.config.js
+   yarn-error.log
